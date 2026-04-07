@@ -1,6 +1,6 @@
 <!-- HEADER: CYBER-DARK ARCHITECT -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=000000&height=200&section=header&text=JUAN%20FELIPE&fontSize=80&animation=fadeIn&theme=dark" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=000000&height=200&section=header&text=JUAN%20FELIPE&fontSize=80&animation=fadeIn&fontAlignY=40&theme=dark" width="100%" />
   
   <p align="center">
     <code><b>SYSTEM.STATUS: ACTIVE</b></code> | 
@@ -41,40 +41,40 @@
   <tr>
     <td align="center" colspan="2">
       <p><b>MAIN_SYSTEM_ARCHITECT: IRON_PROTOCOL</b></p>
-      <img src="./assets/iron.jpg" width="100%" style="border-radius:10px; border: 2px solid #333;">
+      <img src="./assets/iron.jpg" width="100%" style="border-radius:10px;">
     </td>
   </tr>
   
   <tr>
     <td width="50%" align="center">
       <p><b>NEURAL_NETWORK: N_ENGINE</b></p>
-      <img src="./assets/n.jpg" width="100%" style="border-radius:10px; border: 1px solid #333;">
+      <img src="./assets/n.jpg" width="100%" style="border-radius:10px;">
     </td>
     <td width="50%" align="center">
       <p><b>SYSTEM_CORE: LOGIC_FLOW</b></p>
-      <img src="./assets/sistem.jpg" width="100%" style="border-radius:10px; border: 1px solid #333;">
+      <img src="./assets/sistem.jpg" width="100%" style="border-radius:10px;">
     </td>
   </tr>
 
   <tr>
     <td width="50%" align="center">
       <p><b>UI_DESIGN: SATORU_INTERFACE</b></p>
-      <img src="./assets/satoru.jpeg" width="100%" style="border-radius:10px; border: 1px solid #333;">
+      <img src="./assets/satoru.jpeg" width="100%" style="border-radius:10px;">
     </td>
     <td width="50%" align="center">
       <p><b>DATA_VISUALIZATION: FUTURE_AVIF</b></p>
-      <img src="./assets/future.avif" width="100%" style="border-radius:10px; border: 1px solid #333;">
+      <img src="./assets/future.avif" width="100%" style="border-radius:10px;">
     </td>
   </tr>
 
   <tr>
     <td width="50%" align="center">
       <p><b>UX_RESEARCH: CONFORT_WEBP</b></p>
-      <img src="./assets/confort.webp" width="100%" style="border-radius:10px; border: 1px solid #333;">
+      <img src="./assets/confort.webp" width="100%" style="border-radius:10px;">
     </td>
     <td width="50%" align="center">
       <p><b>PROJECT_DOCUMENTATION: DESC_PNG</b></p>
-      <img src="./assets/desc.png" width="100%" style="border-radius:10px; border: 1px solid #333;">
+      <img src="./assets/desc.png" width="100%" style="border-radius:10px;">
     </td>
   </tr>
 </table>
