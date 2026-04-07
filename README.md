@@ -14,7 +14,6 @@
 <!-- INTERACTIVE SECTION: THE SNAKE GAME -->
 ## 🟢 Neural Grid Activity (Automated Snake)
 <div align="center">
-  <!-- Si el juego no aparece, es porque la GitHub Action aún no ha terminado su proceso -->
   <img src="https://raw.githubusercontent.com/JuanFelipehoy/JuanFelipehoy/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
 </div>
 
@@ -99,9 +98,9 @@
 ## 📡 Connection Terminals
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/TU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/TU_USUARIO)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=safari&logoColor=white)](https://tu-sitio.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/JuanFelipehoy)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/JuanFelipehoy)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/JuanFelipehoy)
 
 </div>
 
