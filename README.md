@@ -41,40 +41,40 @@
   <tr>
     <td align="center" colspan="2">
       <p><b>MAIN_SYSTEM_ARCHITECT: IRON_PROTOCOL</b></p>
-      <img src="./assets/iron.jpg" width="100%" style="border-radius:10px;">
+      <img src="https://raw.githubusercontent.com/JuanFelipehoy/JuanFelipehoy/main/assets/iron.jpg" width="100%" style="border-radius:10px;">
     </td>
   </tr>
   
   <tr>
     <td width="50%" align="center">
       <p><b>NEURAL_NETWORK: N_ENGINE</b></p>
-      <img src="./assets/n.jpg" width="100%" style="border-radius:10px;">
+      <img src="https://raw.githubusercontent.com/JuanFelipehoy/JuanFelipehoy/main/assets/n.jpg" width="100%" style="border-radius:10px;">
     </td>
     <td width="50%" align="center">
       <p><b>SYSTEM_CORE: LOGIC_FLOW</b></p>
-      <img src="./assets/sistem.jpg" width="100%" style="border-radius:10px;">
+      <img src="https://raw.githubusercontent.com/JuanFelipehoy/JuanFelipehoy/main/assets/sistem.jpg" width="100%" style="border-radius:10px;">
     </td>
   </tr>
 
   <tr>
     <td width="50%" align="center">
       <p><b>UI_DESIGN: SATORU_INTERFACE</b></p>
-      <img src="./assets/satoru.jpeg" width="100%" style="border-radius:10px;">
+      <img src="https://raw.githubusercontent.com/JuanFelipehoy/JuanFelipehoy/main/assets/satoru.jpeg" width="100%" style="border-radius:10px;">
     </td>
     <td width="50%" align="center">
       <p><b>ENVIRONMENT_SCAN: CITY_VIEW</b></p>
-      <img src="./assets/ciudad.jpg" width="100%" style="border-radius:10px;">
+      <img src="https://raw.githubusercontent.com/JuanFelipehoy/JuanFelipehoy/main/assets/ciudad.jpg" width="100%" style="border-radius:10px;">
     </td>
   </tr>
 
   <tr>
     <td width="50%" align="center">
       <p><b>UX_RESEARCH: CONFORT_WEBP</b></p>
-      <img src="./assets/confort.webp" width="100%" style="border-radius:10px;">
+      <img src="https://raw.githubusercontent.com/JuanFelipehoy/JuanFelipehoy/main/assets/confort.webp" width="100%" style="border-radius:10px;">
     </td>
     <td width="50%" align="center">
       <p><b>PROJECT_DOCUMENTATION: DESC_PNG</b></p>
-      <img src="./assets/desc.png" width="100%" style="border-radius:10px;">
+      <img src="https://raw.githubusercontent.com/JuanFelipehoy/JuanFelipehoy/main/assets/desc.png" width="100%" style="border-radius:10px;">
     </td>
   </tr>
 </table>
@@ -86,10 +86,10 @@
 <!-- PERFORMANCE METRICS -->
 ## 📊 Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanFelipehoy&show_icons=true&theme=tokyonight&hide_border=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFelipehoy&layout=compact&theme=tokyonight&hide_border=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanFelipehoy&show_icons=true&theme=tokyonight&hide_border=true&cache=seconds" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFelipehoy&layout=compact&theme=tokyonight&hide_border=true&cache=seconds" height="170px" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanFelipehoy&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanFelipehoy&theme=tokyonight&hide_border=true&cache=seconds" width="100%" />
 </div>
 
 ---
