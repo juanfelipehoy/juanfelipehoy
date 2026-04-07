@@ -62,8 +62,8 @@
       <img src="./assets/satoru.jpeg" width="100%" style="border-radius:10px;">
     </td>
     <td width="50%" align="center">
-      <p><b>DATA_VISUALIZATION: FUTURE_AVIF</b></p>
-      <img src="./assets/future.avif" width="100%" style="border-radius:10px;">
+      <p><b>ENVIRONMENT_SCAN: CITY_VIEW</b></p>
+      <img src="./assets/ciudad.jpg" width="100%" style="border-radius:10px;">
     </td>
   </tr>
 
