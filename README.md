@@ -98,7 +98,7 @@
 ## 📡 Connection Terminals
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=E4405F)]([https://instagram.com/JuanFelipehoy](https://www.instagram.com/juan_felipehoyos/))
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=E4405F)]([[https://instagram.com/JuanFelipehoy](https://www.instagram.com/juan_felipehoyos)](https://www.instagram.com/juan_felipehoyos/))
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/JuanFelipehoy)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/JuanFelipehoy)
 
