@@ -176,7 +176,7 @@ Código simple. Interfaces claras. Sistemas escalables.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JuanFelipehoy&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=B892FF&text_color=FFFFFF&count_private=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JuanFelipehoy&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=B892FF&text_color=FFFFFF" height="175"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFelipehoy&layout=compact&hide_border=true&bg_color=00000000&title_color=00F0FF&text_color=FFFFFF&langs_count=8" height="175"/>
 
 <br/>
