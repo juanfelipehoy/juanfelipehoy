@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D0D2B,100:1A0033&height=260&section=header&text=JUAN%20FELIPE&fontSize=70&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Colombia&descAlignY=58&descSize=20&descColor=B892FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D0D2B,100:1A0033&height=260&section=header&text=JUAN%20FELIPE&fontSize=70&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Colombia&descAlignY=58&descSize=20&descColor=B892FF" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+software;Full+Stack+Software+Engineer;Python+%7C+JavaScript+%7C+Node.js+%7C+SQL;Design-driven+%2F+Performance-obsessed" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+software;Full+Stack+Software+Developer;Python+%7C+JavaScript+%7C+Node.js+%7C+SQL;Design-driven+%2F+Performance-obsessed" alt="Typing SVG" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00F0FF?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/LOCATION-COLOMBIA-B892FF?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/ROLE-SOFTWARE_ENGINEER-FFFFFF?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/ROLE-SOFTWARE_DEVELOPER-FFFFFF?style=for-the-badge&labelColor=000000"/>
 
 </div>
 
@@ -32,8 +32,8 @@
 <td align="center" width="100%">
 <br/>
 
-Ingeniero de software enfocado en construir productos limpios, rápidos y bien diseñados.<br/>
-Me interesa la intersección entre **ingeniería, arquitectura y diseño**.<br/>
+Desarrollador de software enfocado en construir productos limpios, rápidos y bien diseñados.<br/>
+Me interesa la intersección entre **desarrollo, arquitectura y diseño**.<br/>
 Código simple. Interfaces claras. Sistemas escalables.
 
 <br/>
