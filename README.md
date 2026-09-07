@@ -182,20 +182,21 @@ Me interesa la intersección entre <b>desarrollo, arquitectura y diseño</b>.<br
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=JuanFelipehoy&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=B892FF&text_color=FFFFFF" height="175"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JuanFelipehoy&layout=compact&hide_border=true&bg_color=00000000&title_color=00F0FF&text_color=FFFFFF&langs_count=8" height="175"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanFelipehoy&hide_border=true&background=00000000&ring=00F0FF&fire=B892FF&currStreakLabel=00F0FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=888888" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanFelipehoy&bg_color=00000000&color=B892FF&line=00F0FF&point=FFFFFF&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JuanFelipehoy&show_icons=true&theme=dark&bg_color=0D0D2B&title_color=00F0FF&icon_color=B892FF&text_color=FFFFFF&border_color=00F0FF" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFelipehoy&layout=compact&theme=dark&bg_color=0D0D2B&title_color=00F0FF&text_color=FFFFFF&border_color=B892FF&langs_count=6" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=JuanFelipehoy&theme=darkhub&no-frame=true&row=1&margin-w=8&column=6"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanFelipehoy&theme=dark&background=0D0D2B&ring=00F0FF&fire=B892FF&currStreakLabel=00F0FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=888888&border=B892FF" width="100%"/>
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CORE_FOCUS-FULL_STACK_ARCHITECTURE-00F0FF?style=for-the-badge&labelColor=0D0D2B" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DESIGN-SYSTEMS_%26_PERFORMANCE-B892FF?style=for-the-badge&labelColor=0D0D2B" />
+</p>
 
 </div>
 
