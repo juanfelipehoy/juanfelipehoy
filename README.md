@@ -2,15 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D0D2B,100:1A0033&height=260&section=header&text=JUAN%20FELIPE&fontSize=70&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Colombia&descAlignY=58&descSize=20&descColor=B892FF" width="100%"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+software;Full+Stack+Software+Developer;Python+%7C+JavaScript+%7C+Node.js+%7C+SQL;Design-driven+%2F+Performance-obsessed" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00F0FF?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/LOCATION-COLOMBIA-B892FF?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/ROLE-SOFTWARE_DEVELOPER-FFFFFF?style=for-the-badge&labelColor=000000"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00F0FF?style=for-the-badge&labelColor=000000"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LOCATION-COLOMBIA-B892FF?style=for-the-badge&labelColor=000000"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ROLE-SOFTWARE_DEVELOPER-FFFFFF?style=for-the-badge&labelColor=000000"/>
+</p>
 
 </div>
 
@@ -27,14 +31,16 @@
 <h2 align="center">🖤 ABOUT ME</h2>
 
 <div align="center">
-<table border="0">
+<table border="0" width="85%">
 <tr>
-<td align="center" width="100%">
+<td align="center">
 <br/>
 
+<p align="center">
 Desarrollador de software enfocado en construir productos limpios, rápidos y bien diseñados.<br/>
-Me interesa la intersección entre **desarrollo, arquitectura y diseño**.<br/>
-Código simple. Interfaces claras. Sistemas escalables.
+Me interesa la intersección entre <b>desarrollo, arquitectura y diseño</b>.<br/>
+<i>Código simple. Interfaces claras. Sistemas escalables.</i>
+</p>
 
 <br/>
 </td>
@@ -54,29 +60,29 @@ Código simple. Interfaces claras. Sistemas escalables.
 
 <table border="0" width="100%">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 **LOGIC & ENGINE**
-<br/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F0FF"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F0FF"/><br/>
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF"/>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 **INTERFACE**
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=B892FF"/>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=B892FF"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=B892FF"/><br/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=B892FF"/><br/>
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=B892FF"/>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 **PERSISTENCE & TOOLING**
-<br/>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/><br/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF"/><br/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
 </td>
@@ -202,9 +208,11 @@ Código simple. Interfaces claras. Sistemas escalables.
 <a href="https://www.instagram.com/juan_felipehoyos/" target="_blank">
 <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=B892FF"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/juan-felipe-hoyos-4b446726a/" target="_blank">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/>
 </a>
+&nbsp;
 <a href="https://github.com/JuanFelipehoy" target="_blank">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
