@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:0B1020,75:111A3A,100:160B2B&height=280&section=header&text=JUAN%20FELIPE%20HOYOS&fontSize=52&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20COLOMBIA&descAlignY=58&descSize=18&descColor=B892FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:080D1A,75:111A3A,100:1A0033&height=280&section=header&text=JUAN%20FELIPE%20HOYOS&fontSize=52&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20COLOMBIA&descAlignY=58&descSize=18&descColor=B892FF" width="100%"/>
 
 <br/>
 
@@ -255,27 +255,131 @@ interfaces, APIs, automation and interactive technology.
 
 ---
 
-<h2 align="center">05 / CONTRIBUTION SYSTEM</h2>
+<h2 align="center">05 / VISUAL LAB</h2>
 
 <div align="center">
 
-<h3>👾 PAC-MAN // CONTRIBUTION MODE</h3>
+<table width="100%" cellspacing="12">
 
-<p>
-Every contribution becomes part of the maze.
-<br/>
-<b>Keep building. Keep pushing.</b>
-</p>
+<tr>
 
-<br/>
+<td align="center" colspan="2">
 
-<img src="https://raw.githubusercontent.com/JuanFelipehoy/JuanFelipehoy/output/pacman.svg" width="100%" alt="Pac-Man contribution graph"/>
+<sub><b>MAIN ARCHITECTURE — IRON PROTOCOL</b></sub>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/JuanFelipehoy/JuanFelipehoy/main/assets/iron.jpg" width="95%" alt="Iron Protocol"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<sub><b>NEURAL ENGINE</b></sub>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/JuanFelipehoy/JuanFelipehoy/main/assets/n.jpg" width="95%" alt="Neural Engine"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<sub><b>SYSTEM CORE — LOGIC FLOW</b></sub>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/JuanFelipehoy/JuanFelipehoy/main/assets/sistem.jpg" width="95%" alt="System Core"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<sub><b>UI INTERFACE</b></sub>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/JuanFelipehoy/JuanFelipehoy/main/assets/satoru.jpeg" width="95%" alt="UI Interface"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<sub><b>ENVIRONMENT SCAN</b></sub>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/JuanFelipehoy/JuanFelipehoy/main/assets/ciudad.jpg" width="95%" alt="Environment Scan"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<sub><b>UX RESEARCH</b></sub>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/JuanFelipehoy/JuanFelipehoy/main/assets/confort.webp" width="95%" alt="UX Research"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<sub><b>PROJECT DOCUMENTATION</b></sub>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/JuanFelipehoy/JuanFelipehoy/main/assets/desc.png" width="95%" alt="Project Documentation"/>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-<h2 align="center">06 / GITHUB ANALYTICS</h2>
+<h2 align="center">06 / PAC-MAN // CONTRIBUTION MODE</h2>
+
+<div align="center">
+
+<p>
+
+<b>INSERT COIN</b>
+
+<br/>
+
+Every contribution becomes part of the maze.
+
+<br/><br/>
+
+👾 &nbsp; <b>BUILD</b> &nbsp; → &nbsp; <b>COMMIT</b> &nbsp; → &nbsp; <b>CONTRIBUTE</b> &nbsp; → &nbsp; 👾
+
+</p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/JuanFelipehoy/JuanFelipehoy/output/pacman.svg" width="100%" alt="Pac-Man Contribution Graph"/>
+
+</div>
+
+---
+
+<h2 align="center">07 / GITHUB ANALYTICS</h2>
 
 <div align="center">
 
@@ -301,7 +405,7 @@ Every contribution becomes part of the maze.
 
 ---
 
-<h2 align="center">07 / CURRENT FOCUS</h2>
+<h2 align="center">08 / CURRENT FOCUS</h2>
 
 <div align="center">
 
@@ -317,4 +421,5 @@ FULL STACK DEVELOPMENT
 ├── Database Systems
 ├── Frontend Engineering
 ├── UI / UX
-└── Software Architecture
+├── Software Architecture
+└── Continuous Learning
